@@ -32,9 +32,21 @@ The dashboard provides visual insights into:
 - Power Query Editor
 - DAX (Data Analysis Expressions)
 
+
+
 ## 📌 How to Use
 
 1. Open the `.pbix` file in Power BI Desktop
 2. Interact with the dashboard using slicers for job titles, countries, and experience levels
 3. Analyze the charts to gain insights about trends in the data profession
+
+## 🖼️ Dashboard Preview
+
+Below is a snapshot of the Power BI dashboard showcasing key insights from the Data Professional Survey:
+
+<img width="601" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/013d0308-60b3-4b24-aec0-03d57a66f75c" />
+
+
+
+
 
